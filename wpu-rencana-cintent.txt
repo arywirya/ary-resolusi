@@ -1,5 +1,7 @@
 Rencana Konten WPU
 - JS
+  *es6
+  *Framework Javascript
 - PHP
 - Interview
 - Vlogs
